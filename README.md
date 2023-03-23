@@ -1,1 +1,1 @@
-# robust-initialization-VIO
+# Decoupled Rotation and Translation VIO initialization
