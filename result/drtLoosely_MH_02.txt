@@ -1,0 +1,1118 @@
+time: 1403636858.701667 other_reason
+scale_error: nan
+pose_error: nan
+biasg_error: nan
+velo_error: nan
+gravity_error: nan nan
+v0_error: nan
+time: 1403636859.701667 good
+scale_error: 0.004212
+pose_error: 0.003657
+biasg_error: 0.275342
+velo_error: 0.028636
+gravity_error: 0.987153 0.008835
+v0_error: 0.033973
+time: 1403636860.201667 good
+scale_error: 0.008251
+pose_error: 0.003835
+biasg_error: 0.865732
+velo_error: 0.027746
+gravity_error: 1.233797 0.069486
+v0_error: 0.039171
+time: 1403636860.701667 other_reason
+scale_error: nan
+pose_error: nan
+biasg_error: nan
+velo_error: nan
+gravity_error: nan nan
+v0_error: nan
+gt_vel_rot: nan nan
+time: 1403636861.201667 good
+scale_error: 0.006203
+pose_error: 0.002448
+biasg_error: 1.850935
+velo_error: 0.026023
+gravity_error: 1.001164 0.041465
+v0_error: 0.052757
+time: 1403636861.701667 good
+scale_error: 0.003251
+pose_error: 0.001843
+biasg_error: 1.458899
+velo_error: 0.021934
+gravity_error: 1.033804 0.024190
+v0_error: 0.032083
+time: 1403636862.201667 good
+scale_error: 0.004245
+pose_error: 0.003364
+biasg_error: 3.034644
+velo_error: 0.025435
+gravity_error: 0.884793 0.045523
+v0_error: 0.045741
+time: 1403636862.701667 good
+scale_error: 0.004485
+pose_error: 0.006627
+biasg_error: 5.640377
+velo_error: 0.030397
+gravity_error: 0.790196 0.075794
+v0_error: 0.052739
+time: 1403636863.201667 other_reason
+scale_error: nan
+pose_error: nan
+biasg_error: nan
+velo_error: nan
+gravity_error: nan nan
+v0_error: nan
+gt_vel_rot: nan nan
+time: 1403636863.701667 other_reason
+scale_error: nan
+pose_error: nan
+biasg_error: nan
+velo_error: nan
+gravity_error: nan nan
+v0_error: nan
+gt_vel_rot: nan nan
+time: 1403636864.201667 other_reason
+scale_error: nan
+pose_error: nan
+biasg_error: nan
+velo_error: nan
+gravity_error: nan nan
+v0_error: nan
+gt_vel_rot: nan nan
+time: 1403636864.701667 other_reason
+scale_error: nan
+pose_error: nan
+biasg_error: nan
+velo_error: nan
+gravity_error: nan nan
+v0_error: nan
+gt_vel_rot: nan nan
+time: 1403636865.201667 good
+scale_error: 0.013747
+pose_error: 0.005612
+biasg_error: 1.325767
+velo_error: 0.027971
+gravity_error: 0.907583 0.019668
+v0_error: 0.051879
+time: 1403636865.701667 good
+scale_error: 0.028765
+pose_error: 0.007118
+biasg_error: 0.328051
+velo_error: 0.028182
+gravity_error: 0.883728 0.012353
+v0_error: 0.064728
+time: 1403636866.201667 good
+scale_error: 0.165295
+pose_error: 0.034536
+biasg_error: 0.272975
+velo_error: 0.035254
+gravity_error: 0.802965 0.009759
+v0_error: 0.067082
+time: 1403636867.201667 good
+scale_error: 0.105855
+pose_error: 0.011013
+biasg_error: 1.685969
+velo_error: 0.029060
+gravity_error: 0.762570 0.024387
+v0_error: 0.017107
+time: 1403636871.701667 good
+scale_error: 0.016188
+pose_error: 0.005015
+biasg_error: 0.500598
+velo_error: 0.018717
+gravity_error: 0.602747 0.053179
+v0_error: 0.036222
+time: 1403636878.701667 good
+scale_error: 0.002838
+pose_error: 0.005515
+biasg_error: 0.655275
+velo_error: 0.018334
+gravity_error: 0.882384 0.035303
+v0_error: 0.036083
+time: 1403636879.701667 good
+scale_error: 0.041717
+pose_error: 0.013797
+biasg_error: 1.447764
+velo_error: 0.013620
+gravity_error: 0.848025 0.039800
+v0_error: 0.011116
+time: 1403636880.201667 good
+scale_error: 0.018143
+pose_error: 0.005546
+biasg_error: 0.439918
+velo_error: 0.014969
+gravity_error: 0.726501 0.006131
+v0_error: 0.014234
+time: 1403636880.701667 good
+scale_error: 0.027747
+pose_error: 0.007381
+biasg_error: 1.118313
+velo_error: 0.020716
+gravity_error: 0.798126 0.017578
+v0_error: 0.008701
+time: 1403636881.201667 good
+scale_error: 0.039848
+pose_error: 0.016596
+biasg_error: 0.872240
+velo_error: 0.027951
+gravity_error: 0.814215 0.015558
+v0_error: 0.027364
+time: 1403636897.701667 good
+scale_error: 0.005537
+pose_error: 0.003116
+biasg_error: 0.940091
+velo_error: 0.008976
+gravity_error: 0.846794 0.035363
+v0_error: 0.019241
+time: 1403636898.701667 good
+scale_error: 0.002940
+pose_error: 0.003678
+biasg_error: 2.239613
+velo_error: 0.009087
+gravity_error: 1.002416 0.044979
+v0_error: 0.005787
+time: 1403636899.701667 good
+scale_error: 0.004368
+pose_error: 0.006123
+biasg_error: 1.719103
+velo_error: 0.015958
+gravity_error: 1.108801 0.032049
+v0_error: 0.025983
+time: 1403636900.201667 good
+scale_error: 0.109627
+pose_error: 0.071158
+biasg_error: 0.098099
+velo_error: 0.056358
+gravity_error: 0.858121 0.024303
+v0_error: 0.043730
+time: 1403636900.701667 good
+scale_error: 0.016398
+pose_error: 0.011940
+biasg_error: 0.741928
+velo_error: 0.014699
+gravity_error: 1.074987 0.024149
+v0_error: 0.033009
+time: 1403636901.201667 good
+scale_error: 0.105837
+pose_error: 0.072969
+biasg_error: 1.450905
+velo_error: 0.048200
+gravity_error: 1.031386 0.044867
+v0_error: 0.048757
+time: 1403636902.201667 good
+scale_error: 0.130987
+pose_error: 0.080720
+biasg_error: 0.043247
+velo_error: 0.060035
+gravity_error: 1.030105 0.026389
+v0_error: 0.054283
+time: 1403636903.201667 good
+scale_error: 0.023487
+pose_error: 0.016823
+biasg_error: 0.331647
+velo_error: 0.011166
+gravity_error: 0.962543 0.026225
+v0_error: 0.002600
+time: 1403636903.701667 good
+scale_error: 0.025771
+pose_error: 0.018890
+biasg_error: 0.649912
+velo_error: 0.012048
+gravity_error: 0.927778 0.029467
+v0_error: 0.007873
+time: 1403636904.201667 good
+scale_error: 0.048665
+pose_error: 0.038309
+biasg_error: 0.458204
+velo_error: 0.032645
+gravity_error: 0.994451 0.029914
+v0_error: 0.062952
+time: 1403636904.701667 good
+scale_error: 0.043056
+pose_error: 0.028962
+biasg_error: 1.068087
+velo_error: 0.015424
+gravity_error: 0.980793 0.032603
+v0_error: 0.015149
+time: 1403636905.201667 good
+scale_error: 0.034926
+pose_error: 0.023727
+biasg_error: 2.994843
+velo_error: 0.019264
+gravity_error: 0.996442 0.045078
+v0_error: 0.018118
+time: 1403636905.701667 good
+scale_error: 0.268776
+pose_error: 0.142949
+biasg_error: 2.064762
+velo_error: 0.102431
+gravity_error: 0.891714 0.042113
+v0_error: 0.088125
+time: 1403636907.701667 good
+scale_error: 0.110816
+pose_error: 0.128797
+biasg_error: 3.817272
+velo_error: 0.095726
+gravity_error: 1.091228 0.060499
+v0_error: 0.101443
+time: 1403636908.201667 good
+scale_error: 0.058749
+pose_error: 0.060416
+biasg_error: 2.181856
+velo_error: 0.033441
+gravity_error: 0.881173 0.036447
+v0_error: 0.027205
+time: 1403636908.701667 good
+scale_error: 0.002464
+pose_error: 0.009881
+biasg_error: 0.181056
+velo_error: 0.011599
+gravity_error: 0.746349 0.030228
+v0_error: 0.031375
+time: 1403636909.201667 good
+scale_error: 0.029717
+pose_error: 0.031407
+biasg_error: 1.821767
+velo_error: 0.029059
+gravity_error: 0.778079 0.040063
+v0_error: 0.018970
+time: 1403636910.701667 scale_gravity_fail
+scale_error: 0.892406
+pose_error: 0.397182
+biasg_error: 1.268051
+velo_error: 0.279124
+gravity_error: 1.046417 0.031559
+v0_error: 0.299718
+time: 1403636912.701667 good
+scale_error: 0.297102
+pose_error: 0.199801
+biasg_error: 0.751382
+velo_error: 0.136521
+gravity_error: 0.923857 0.024140
+v0_error: 0.163011
+time: 1403636913.701667 good
+scale_error: 0.007716
+pose_error: 0.006476
+biasg_error: 0.900375
+velo_error: 0.009283
+gravity_error: 0.813758 0.036166
+v0_error: 0.019665
+time: 1403636914.701667 good
+scale_error: 0.121140
+pose_error: 0.076962
+biasg_error: 0.070580
+velo_error: 0.048667
+gravity_error: 0.775254 0.027168
+v0_error: 0.044537
+time: 1403636915.201667 good
+scale_error: 0.011344
+pose_error: 0.008502
+biasg_error: 0.208638
+velo_error: 0.020365
+gravity_error: 0.760445 0.023432
+v0_error: 0.039004
+time: 1403636915.701667 good
+scale_error: 0.040878
+pose_error: 0.027292
+biasg_error: 0.109144
+velo_error: 0.023323
+gravity_error: 0.953459 0.017128
+v0_error: 0.039388
+time: 1403636916.701667 good
+scale_error: 0.063568
+pose_error: 0.024244
+biasg_error: 0.799150
+velo_error: 0.019034
+gravity_error: 0.871036 0.024031
+v0_error: 0.021683
+time: 1403636917.201667 good
+scale_error: 0.040599
+pose_error: 0.012645
+biasg_error: 1.758784
+velo_error: 0.013020
+gravity_error: 1.014064 0.035319
+v0_error: 0.003742
+time: 1403636917.701667 good
+scale_error: 0.005581
+pose_error: 0.002917
+biasg_error: 0.718284
+velo_error: 0.006727
+gravity_error: 1.036020 0.028418
+v0_error: 0.006998
+time: 1403636918.201667 good
+scale_error: 0.046639
+pose_error: 0.017985
+biasg_error: 0.887238
+velo_error: 0.032324
+gravity_error: 0.861828 0.041261
+v0_error: 0.024020
+time: 1403636918.701667 good
+scale_error: 0.083338
+pose_error: 0.034104
+biasg_error: 0.192713
+velo_error: 0.035684
+gravity_error: 0.803947 0.036434
+v0_error: 0.037041
+time: 1403636919.201667 good
+scale_error: 0.121511
+pose_error: 0.047743
+biasg_error: 0.131594
+velo_error: 0.037532
+gravity_error: 0.863417 0.032181
+v0_error: 0.039112
+time: 1403636919.701667 good
+scale_error: 0.063440
+pose_error: 0.025361
+biasg_error: 0.858752
+velo_error: 0.034218
+gravity_error: 0.884796 0.025650
+v0_error: 0.040781
+time: 1403636920.201667 good
+scale_error: 0.076177
+pose_error: 0.034069
+biasg_error: 1.476950
+velo_error: 0.034665
+gravity_error: 0.949436 0.033348
+v0_error: 0.012692
+time: 1403636920.701667 good
+scale_error: 0.128919
+pose_error: 0.054594
+biasg_error: 0.817715
+velo_error: 0.049492
+gravity_error: 0.868862 0.027720
+v0_error: 0.047069
+time: 1403636921.201667 good
+scale_error: 0.343999
+pose_error: 0.095139
+biasg_error: 3.119077
+velo_error: 0.050537
+gravity_error: 1.232522 0.139127
+v0_error: 0.010344
+time: 1403636922.701667 good
+scale_error: 0.105304
+pose_error: 0.027019
+biasg_error: 0.157726
+velo_error: 0.042266
+gravity_error: 1.061679 0.031139
+v0_error: 0.055253
+time: 1403636923.201667 good
+scale_error: 0.080473
+pose_error: 0.032795
+biasg_error: 0.352310
+velo_error: 0.036353
+gravity_error: 0.876053 0.028132
+v0_error: 0.009355
+time: 1403636924.201667 good
+scale_error: 0.059483
+pose_error: 0.044321
+biasg_error: 0.192532
+velo_error: 0.035866
+gravity_error: 0.897022 0.034639
+v0_error: 0.003990
+time: 1403636926.201667 good
+scale_error: 0.067973
+pose_error: 0.050807
+biasg_error: 1.714639
+velo_error: 0.047703
+gravity_error: 1.022322 0.040276
+v0_error: 0.059257
+time: 1403636926.701667 good
+scale_error: 0.004855
+pose_error: 0.005566
+biasg_error: 0.590061
+velo_error: 0.020704
+gravity_error: 0.857368 0.033701
+v0_error: 0.054561
+time: 1403636927.201667 good
+scale_error: 0.108401
+pose_error: 0.094462
+biasg_error: 0.640786
+velo_error: 0.082234
+gravity_error: 0.768504 0.051610
+v0_error: 0.088138
+time: 1403636928.201667 good
+scale_error: 0.126938
+pose_error: 0.111402
+biasg_error: 1.169425
+velo_error: 0.077074
+gravity_error: 0.812904 0.058299
+v0_error: 0.087987
+time: 1403636928.701667 good
+scale_error: 0.084302
+pose_error: 0.068370
+biasg_error: 0.255762
+velo_error: 0.038559
+gravity_error: 0.762639 0.075911
+v0_error: 0.024683
+time: 1403636929.201667 good
+scale_error: 0.055278
+pose_error: 0.042835
+biasg_error: 0.051870
+velo_error: 0.033525
+gravity_error: 0.887047 0.055315
+v0_error: 0.040572
+time: 1403636929.701667 good
+scale_error: 0.019903
+pose_error: 0.012802
+biasg_error: 0.410037
+velo_error: 0.012827
+gravity_error: 1.002432 0.033548
+v0_error: 0.013859
+time: 1403636930.201667 good
+scale_error: 0.104952
+pose_error: 0.061570
+biasg_error: 0.111888
+velo_error: 0.052821
+gravity_error: 1.131085 0.020010
+v0_error: 0.080443
+time: 1403636931.201667 good
+scale_error: 0.035394
+pose_error: 0.019230
+biasg_error: 0.533177
+velo_error: 0.025871
+gravity_error: 1.126903 0.027814
+v0_error: 0.012211
+time: 1403636931.701667 good
+scale_error: 0.051918
+pose_error: 0.027941
+biasg_error: 0.646335
+velo_error: 0.022419
+gravity_error: 0.995895 0.047070
+v0_error: 0.007143
+time: 1403636932.201667 good
+scale_error: 0.014546
+pose_error: 0.010503
+biasg_error: 1.305359
+velo_error: 0.015115
+gravity_error: 0.994719 0.050196
+v0_error: 0.025147
+time: 1403636932.701667 good
+scale_error: 0.046356
+pose_error: 0.034624
+biasg_error: 1.486083
+velo_error: 0.034246
+gravity_error: 0.932088 0.055902
+v0_error: 0.068554
+time: 1403636933.201667 good
+scale_error: 0.077565
+pose_error: 0.049765
+biasg_error: 1.243426
+velo_error: 0.041445
+gravity_error: 0.890916 0.052400
+v0_error: 0.050749
+time: 1403636933.701667 good
+scale_error: 0.057960
+pose_error: 0.038533
+biasg_error: 0.230089
+velo_error: 0.028446
+gravity_error: 0.851596 0.034697
+v0_error: 0.007470
+time: 1403636934.701667 good
+scale_error: 0.070541
+pose_error: 0.054699
+biasg_error: 0.780029
+velo_error: 0.041207
+gravity_error: 0.908937 0.028017
+v0_error: 0.056948
+time: 1403636935.201667 good
+scale_error: 0.002704
+pose_error: 0.003622
+biasg_error: 0.520518
+velo_error: 0.018025
+gravity_error: 0.978527 0.025137
+v0_error: 0.054204
+time: 1403636935.701667 scale_gravity_fail
+scale_error: 1.325576
+pose_error: 0.292971
+biasg_error: 20.734050
+velo_error: 0.244676
+gravity_error: 1.749885 1.032426
+v0_error: 0.361271
+time: 1403636937.201667 good
+scale_error: 0.030993
+pose_error: 0.015638
+biasg_error: 0.796857
+velo_error: 0.018344
+gravity_error: 0.993103 0.022441
+v0_error: 0.024149
+time: 1403636941.201667 good
+scale_error: 0.079951
+pose_error: 0.094825
+biasg_error: 0.323458
+velo_error: 0.068872
+gravity_error: 0.908180 0.026271
+v0_error: 0.083938
+time: 1403636941.701667 good
+scale_error: 0.135861
+pose_error: 0.169960
+biasg_error: 1.439017
+velo_error: 0.124828
+gravity_error: 0.918509 0.038414
+v0_error: 0.150777
+time: 1403636942.201667 good
+scale_error: 0.124187
+pose_error: 0.152942
+biasg_error: 0.380203
+velo_error: 0.108912
+gravity_error: 0.926873 0.022024
+v0_error: 0.127164
+time: 1403636942.701667 good
+scale_error: 0.009618
+pose_error: 0.010320
+biasg_error: 2.002877
+velo_error: 0.012637
+gravity_error: 0.971956 0.036666
+v0_error: 0.021736
+time: 1403636944.201667 good
+scale_error: 0.041698
+pose_error: 0.020969
+biasg_error: 1.525047
+velo_error: 0.015481
+gravity_error: 0.941199 0.021328
+v0_error: 0.037091
+time: 1403636944.701667 good
+scale_error: 0.031338
+pose_error: 0.013237
+biasg_error: 0.881278
+velo_error: 0.019867
+gravity_error: 1.025482 0.024418
+v0_error: 0.019347
+time: 1403636945.201667 good
+scale_error: 0.035609
+pose_error: 0.015576
+biasg_error: 0.582417
+velo_error: 0.022624
+gravity_error: 1.006150 0.029657
+v0_error: 0.018695
+time: 1403636945.701667 good
+scale_error: 0.143040
+pose_error: 0.051815
+biasg_error: 0.416897
+velo_error: 0.046089
+gravity_error: 1.141611 0.037362
+v0_error: 0.030822
+time: 1403636946.701667 good
+scale_error: 0.061697
+pose_error: 0.018775
+biasg_error: 0.635734
+velo_error: 0.043536
+gravity_error: 1.139328 0.029847
+v0_error: 0.090707
+time: 1403636947.701667 good
+scale_error: 0.014862
+pose_error: 0.009635
+biasg_error: 1.255225
+velo_error: 0.016143
+gravity_error: 1.265282 0.039227
+v0_error: 0.036823
+time: 1403636948.701667 good
+scale_error: 0.122982
+pose_error: 0.073676
+biasg_error: 0.172545
+velo_error: 0.057708
+gravity_error: 1.106022 0.027055
+v0_error: 0.071474
+time: 1403636950.201667 good
+scale_error: 0.002350
+pose_error: 0.017576
+biasg_error: 2.441331
+velo_error: 0.040163
+gravity_error: 0.684176 0.037750
+v0_error: 0.059220
+time: 1403636950.701667 good
+scale_error: 0.119669
+pose_error: 0.096182
+biasg_error: 1.623934
+velo_error: 0.079081
+gravity_error: 0.848171 0.046375
+v0_error: 0.063206
+time: 1403636951.201667 good
+scale_error: 0.011965
+pose_error: 0.012957
+biasg_error: 0.401373
+velo_error: 0.021141
+gravity_error: 0.799588 0.080775
+v0_error: 0.000853
+time: 1403636951.701667 good
+scale_error: 0.015076
+pose_error: 0.011993
+biasg_error: 1.091962
+velo_error: 0.020150
+gravity_error: 1.001758 0.053844
+v0_error: 0.045486
+time: 1403636952.201667 good
+scale_error: 0.116036
+pose_error: 0.079899
+biasg_error: 4.022678
+velo_error: 0.065352
+gravity_error: 1.195310 0.089986
+v0_error: 0.080320
+time: 1403636953.201667 good
+scale_error: 0.026208
+pose_error: 0.023960
+biasg_error: 2.265842
+velo_error: 0.037740
+gravity_error: 1.072624 0.078269
+v0_error: 0.057498
+time: 1403636954.201667 good
+scale_error: 0.040055
+pose_error: 0.041962
+biasg_error: 3.039190
+velo_error: 0.040372
+gravity_error: 1.136133 0.107936
+v0_error: 0.075675
+time: 1403636955.701667 good
+scale_error: 0.015538
+pose_error: 0.014201
+biasg_error: 0.328915
+velo_error: 0.023718
+gravity_error: 0.715452 0.051424
+v0_error: 0.004467
+time: 1403636957.201667 good
+scale_error: 0.077697
+pose_error: 0.034475
+biasg_error: 1.590274
+velo_error: 0.036337
+gravity_error: 0.894793 0.027075
+v0_error: 0.046325
+time: 1403636958.201667 good
+scale_error: 0.046810
+pose_error: 0.018014
+biasg_error: 0.575908
+velo_error: 0.027605
+gravity_error: 0.963734 0.021079
+v0_error: 0.055614
+time: 1403636958.701667 good
+scale_error: 0.101536
+pose_error: 0.036730
+biasg_error: 0.503381
+velo_error: 0.033353
+gravity_error: 0.840416 0.024798
+v0_error: 0.011913
+time: 1403636959.201667 good
+scale_error: 0.315389
+pose_error: 0.099376
+biasg_error: 0.195029
+velo_error: 0.092808
+gravity_error: 0.759392 0.032156
+v0_error: 0.090091
+time: 1403636959.701667 good
+scale_error: 0.169183
+pose_error: 0.060911
+biasg_error: 0.264729
+velo_error: 0.062397
+gravity_error: 0.817931 0.026527
+v0_error: 0.062125
+time: 1403636960.201667 good
+scale_error: 0.113322
+pose_error: 0.047408
+biasg_error: 0.211548
+velo_error: 0.046344
+gravity_error: 0.881965 0.061066
+v0_error: 0.015738
+time: 1403636960.701667 good
+scale_error: 0.159298
+pose_error: 0.070116
+biasg_error: 1.537607
+velo_error: 0.063688
+gravity_error: 0.876578 0.025472
+v0_error: 0.045762
+time: 1403636961.701667 good
+scale_error: 0.160570
+pose_error: 0.078798
+biasg_error: 0.281926
+velo_error: 0.059970
+gravity_error: 0.853207 0.022557
+v0_error: 0.031424
+time: 1403636962.201667 good
+scale_error: 0.028544
+pose_error: 0.017555
+biasg_error: 0.927362
+velo_error: 0.019929
+gravity_error: 0.942073 0.025299
+v0_error: 0.021520
+time: 1403636962.701667 good
+scale_error: 0.014865
+pose_error: 0.010483
+biasg_error: 0.273276
+velo_error: 0.015657
+gravity_error: 0.914384 0.052200
+v0_error: 0.027545
+time: 1403636963.201667 good
+scale_error: 0.180764
+pose_error: 0.119577
+biasg_error: 0.066476
+velo_error: 0.109651
+gravity_error: 0.798463 0.055110
+v0_error: 0.064799
+time: 1403636964.201667 good
+scale_error: 0.105681
+pose_error: 0.108489
+biasg_error: 1.250920
+velo_error: 0.089181
+gravity_error: 0.859540 0.053004
+v0_error: 0.043450
+time: 1403636965.201667 good
+scale_error: 0.003516
+pose_error: 0.007551
+biasg_error: 2.089797
+velo_error: 0.016527
+gravity_error: 1.031616 0.028810
+v0_error: 0.020234
+time: 1403636965.701667 good
+scale_error: 0.009345
+pose_error: 0.016184
+biasg_error: 1.506820
+velo_error: 0.020539
+gravity_error: 0.961354 0.056610
+v0_error: 0.015484
+time: 1403636966.201667 good
+scale_error: 0.016678
+pose_error: 0.020241
+biasg_error: 1.271708
+velo_error: 0.021180
+gravity_error: 0.953721 0.038791
+v0_error: 0.007304
+time: 1403636967.201667 scale_gravity_fail
+scale_error: 2.580631
+pose_error: 0.816657
+biasg_error: 0.407432
+velo_error: 0.710659
+gravity_error: 1.087096 0.057582
+v0_error: 0.559183
+time: 1403636968.201667 good
+scale_error: 0.087647
+pose_error: 0.113858
+biasg_error: 2.451854
+velo_error: 0.090793
+gravity_error: 1.105147 0.046910
+v0_error: 0.128195
+time: 1403636969.201667 good
+scale_error: 0.032858
+pose_error: 0.043285
+biasg_error: 1.702522
+velo_error: 0.032003
+gravity_error: 0.995920 0.033895
+v0_error: 0.021527
+time: 1403636969.701667 good
+scale_error: 0.049227
+pose_error: 0.054237
+biasg_error: 1.654599
+velo_error: 0.045698
+gravity_error: 0.835525 0.037192
+v0_error: 0.067870
+time: 1403636970.701667 good
+scale_error: 0.082726
+pose_error: 0.040984
+biasg_error: 0.422018
+velo_error: 0.037035
+gravity_error: 1.050545 0.039864
+v0_error: 0.053568
+time: 1403636971.201667 good
+scale_error: 0.186123
+pose_error: 0.044005
+biasg_error: 0.414480
+velo_error: 0.051866
+gravity_error: 1.142148 0.030885
+v0_error: 0.085655
+time: 1403636971.701667 good
+scale_error: 0.008938
+pose_error: 0.005301
+biasg_error: 1.712102
+velo_error: 0.024913
+gravity_error: 0.898916 0.047728
+v0_error: 0.052966
+time: 1403636972.201667 good
+scale_error: 0.047459
+pose_error: 0.008762
+biasg_error: 0.426932
+velo_error: 0.024930
+gravity_error: 0.835883 0.044870
+v0_error: 0.000281
+time: 1403636972.701667 good
+scale_error: 0.033621
+pose_error: 0.006936
+biasg_error: 0.787489
+velo_error: 0.029097
+gravity_error: 0.875962 0.030031
+v0_error: 0.007933
+time: 1403636973.201667 good
+scale_error: 0.273251
+pose_error: 0.046534
+biasg_error: 0.287400
+velo_error: 0.040860
+gravity_error: 0.855699 0.024072
+v0_error: 0.039500
+time: 1403636973.701667 good
+scale_error: 0.116194
+pose_error: 0.017379
+biasg_error: 2.287166
+velo_error: 0.027341
+gravity_error: 0.940743 0.035914
+v0_error: 0.067254
+time: 1403636974.201667 good
+scale_error: 0.181999
+pose_error: 0.026649
+biasg_error: 0.673985
+velo_error: 0.023201
+gravity_error: 0.869725 0.041701
+v0_error: 0.018689
+time: 1403636974.701667 good
+scale_error: 0.063102
+pose_error: 0.012667
+biasg_error: 0.540282
+velo_error: 0.018209
+gravity_error: 0.900570 0.036836
+v0_error: 0.026168
+time: 1403636975.201667 good
+scale_error: 0.035581
+pose_error: 0.009970
+biasg_error: 0.350100
+velo_error: 0.016407
+gravity_error: 0.912739 0.032495
+v0_error: 0.003290
+time: 1403636975.701667 good
+scale_error: 0.085977
+pose_error: 0.034519
+biasg_error: 0.575329
+velo_error: 0.035718
+gravity_error: 0.835381 0.035747
+v0_error: 0.020117
+time: 1403636976.701667 good
+scale_error: 0.195007
+pose_error: 0.094950
+biasg_error: 0.034341
+velo_error: 0.073064
+gravity_error: 0.871810 0.029588
+v0_error: 0.084996
+time: 1403636977.201667 good
+scale_error: 0.088667
+pose_error: 0.053093
+biasg_error: 0.790842
+velo_error: 0.036266
+gravity_error: 0.917673 0.021927
+v0_error: 0.033313
+time: 1403636977.701667 good
+scale_error: 0.111419
+pose_error: 0.070039
+biasg_error: 0.850328
+velo_error: 0.063383
+gravity_error: 0.847867 0.027090
+v0_error: 0.035013
+time: 1403636978.201667 good
+scale_error: 0.068222
+pose_error: 0.047996
+biasg_error: 0.664969
+velo_error: 0.032858
+gravity_error: 0.819141 0.026559
+v0_error: 0.032906
+time: 1403636978.701667 good
+scale_error: 0.179616
+pose_error: 0.128167
+biasg_error: 1.150602
+velo_error: 0.095978
+gravity_error: 0.766610 0.029701
+v0_error: 0.097668
+time: 1403636981.201667 good
+scale_error: 0.026174
+pose_error: 0.024151
+biasg_error: 0.798742
+velo_error: 0.022351
+gravity_error: 0.864459 0.030708
+v0_error: 0.036144
+time: 1403636982.201667 good
+scale_error: 0.027555
+pose_error: 0.032713
+biasg_error: 0.454046
+velo_error: 0.025998
+gravity_error: 0.803523 0.039923
+v0_error: 0.034750
+time: 1403636982.701667 good
+scale_error: 0.049257
+pose_error: 0.058482
+biasg_error: 0.672131
+velo_error: 0.052001
+gravity_error: 0.702281 0.031973
+v0_error: 0.070015
+time: 1403636983.201667 good
+scale_error: 0.427036
+pose_error: 0.382238
+biasg_error: 0.393995
+velo_error: 0.289384
+gravity_error: 0.581699 0.020958
+v0_error: 0.259881
+time: 1403636984.201667 scale_gravity_fail
+scale_error: 0.946743
+pose_error: 0.619556
+biasg_error: 1.032928
+velo_error: 0.454373
+gravity_error: 0.543226 0.024255
+v0_error: 0.466422
+time: 1403636984.701667 good
+scale_error: 0.284451
+pose_error: 0.261355
+biasg_error: 0.770781
+velo_error: 0.195616
+gravity_error: 0.565281 0.038374
+v0_error: 0.186327
+time: 1403636986.201667 good
+scale_error: 0.189482
+pose_error: 0.134473
+biasg_error: 0.669537
+velo_error: 0.105018
+gravity_error: 0.720113 0.081818
+v0_error: 0.143092
+time: 1403636987.201667 good
+scale_error: 0.050775
+pose_error: 0.028168
+biasg_error: 0.712149
+velo_error: 0.036414
+gravity_error: 0.850517 0.033384
+v0_error: 0.059988
+time: 1403636988.701667 good
+scale_error: 0.034001
+pose_error: 0.044411
+biasg_error: 1.191371
+velo_error: 0.054540
+gravity_error: 1.453955 0.041403
+v0_error: 0.067568
+time: 1403636990.201667 good
+scale_error: 0.064113
+pose_error: 0.078471
+biasg_error: 1.212759
+velo_error: 0.061528
+gravity_error: 0.962007 0.031120
+v0_error: 0.087737
+time: 1403636991.201667 good
+scale_error: 0.135928
+pose_error: 0.129415
+biasg_error: 0.904322
+velo_error: 0.089955
+gravity_error: 0.981410 0.035805
+v0_error: 0.123543
+time: 1403636991.701667 scale_gravity_fail
+scale_error: 1.135313
+pose_error: 0.529240
+biasg_error: 1.365878
+velo_error: 0.365120
+gravity_error: 1.179727 0.038797
+v0_error: 0.439186
+time: 1403636992.201667 good
+scale_error: 0.059574
+pose_error: 0.051700
+biasg_error: 0.347532
+velo_error: 0.036824
+gravity_error: 0.900802 0.036735
+v0_error: 0.043833
+time: 1403636992.701667 good
+scale_error: 0.010501
+pose_error: 0.009859
+biasg_error: 0.632131
+velo_error: 0.009771
+gravity_error: 0.937979 0.030649
+v0_error: 0.020732
+time: 1403636993.701667 good
+scale_error: 0.225443
+pose_error: 0.202785
+biasg_error: 0.878428
+velo_error: 0.162397
+gravity_error: 1.026488 0.036816
+v0_error: 0.103594
+time: 1403636994.201667 good
+scale_error: 0.151415
+pose_error: 0.162852
+biasg_error: 1.137894
+velo_error: 0.127574
+gravity_error: 0.980817 0.042639
+v0_error: 0.148247
+time: 1403636994.701667 good
+scale_error: 0.054824
+pose_error: 0.072225
+biasg_error: 1.025571
+velo_error: 0.084917
+gravity_error: 1.064275 0.043409
+v0_error: 0.156097
+time: 1403636995.201667 good
+scale_error: 0.018406
+pose_error: 0.024106
+biasg_error: 0.198411
+velo_error: 0.021599
+gravity_error: 0.978820 0.034137
+v0_error: 0.041939
+time: 1403636997.701667 good
+scale_error: 0.116079
+pose_error: 0.075055
+biasg_error: 0.699898
+velo_error: 0.067962
+gravity_error: 1.035631 0.028654
+v0_error: 0.088240
+time: 1403636998.201667 good
+scale_error: 0.121756
+pose_error: 0.071056
+biasg_error: 0.128384
+velo_error: 0.074449
+gravity_error: 1.062106 0.022892
+v0_error: 0.082476
+time: 1403636998.701667 good
+scale_error: 0.047531
+pose_error: 0.028981
+biasg_error: 0.051057
+velo_error: 0.040030
+gravity_error: 1.076865 0.031537
+v0_error: 0.078911
+time: 1403637000.201667 good
+scale_error: 0.273528
+pose_error: 0.191813
+biasg_error: 0.455513
+velo_error: 0.151569
+gravity_error: 0.898894 0.025910
+v0_error: 0.137532
+time: 1403637000.701667 good
+scale_error: 0.135399
+pose_error: 0.113456
+biasg_error: 0.135185
+velo_error: 0.082168
+gravity_error: 0.805571 0.031935
+v0_error: 0.066946
+time: 1403637001.701667 good
+scale_error: 0.427979
+pose_error: 0.264464
+biasg_error: 0.766434
+velo_error: 0.215966
+gravity_error: 1.101199 0.024941
+v0_error: 0.287549
+time: 1403637002.201667 good
+scale_error: 0.421718
+pose_error: 0.260212
+biasg_error: 1.288506
+velo_error: 0.196188
+gravity_error: 0.861541 0.031721
+v0_error: 0.210442
+time: 1403637002.701667 good
+scale_error: 0.191427
+pose_error: 0.133123
+biasg_error: 2.417814
+velo_error: 0.107784
+gravity_error: 1.058287 0.037115
+v0_error: 0.145907
+time: 1403637003.201667 good
+scale_error: 0.311983
+pose_error: 0.187176
+biasg_error: 0.762226
+velo_error: 0.127489
+gravity_error: 1.206322 0.034117
+v0_error: 0.162299
+time: 1403637003.701667 good
+scale_error: 0.064528
+pose_error: 0.042606
+biasg_error: 0.254395
+velo_error: 0.028535
+gravity_error: 0.995008 0.025306
+v0_error: 0.029610
+time: 1403637004.701667 good
+scale_error: 0.075404
+pose_error: 0.031491
+biasg_error: 1.952182
+velo_error: 0.028373
+gravity_error: 1.007952 0.029793
+v0_error: 0.002777

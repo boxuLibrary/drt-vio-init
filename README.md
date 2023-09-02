@@ -1,7 +1,7 @@
 
 # drt-vio-initialization
 ## Decoupled Rotation and Translation VIO initialization
-An accurate and robust initialization is crucial for visual inertial odometry (VIO). Existing loosely-coupled VIO initialization methods suffer from poor stability from structure-from-motion (SfM). Whereas tightly-copupled methods often ignore the gyroscope bias in the closed-form solution, resulting in limited accuracy. Moreover, the aforementioned two classes of methods are computationally expensive, because 3D point clouds need to be reconstructed simultaneously. We propose a novel VIO initialization method, which decouples rotation and translation estimation, and achieves higher efficiency and better robustness. This code is the implementation of our proposed method, which runs on **Linux**. We also provide the code of loosely coupled method and tightly coupled method for comparision as described in the paper. Since the drt-vio-initialization and all comparison algorithms will be released, I am still busy cleaning up the code. **So it will be released in August**.
+An accurate and robust initialization is crucial for visual inertial odometry (VIO). Existing loosely-coupled VIO initialization methods suffer from poor stability from structure-from-motion (SfM). Whereas tightly-copupled methods often ignore the gyroscope bias in the closed-form solution, resulting in limited accuracy. Moreover, the aforementioned two classes of methods are computationally expensive, because 3D point clouds need to be reconstructed simultaneously. We propose a novel VIO initialization method, which decouples rotation and translation estimation, and achieves higher efficiency and better robustness. This code is the implementation of our proposed method, which runs on **Linux**. We also provide the code of loosely coupled method and tightly coupled method for comparision as described in the paper. Since I am still busy cleaning up the code,  we released  the drt-vio-initialization and other comparison algorithms will be released later.
 
 ![pipeline](doc/image/pipline.jpg)
 
@@ -28,33 +28,27 @@ cmake ..
 make -j4
 ```
 
-## 3. Run with Simulation Dataset
-
-We have provided the simulation data, you can test drt-vio-initialization with it, where green line represents trajectory, and blue points represent landmarks.
+## 3.Performance on EuRoC dataset
 
 
+#### 3.1 Download [EuRoC MAV Dataset](http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets). Although it contains stereo cameras, we only use one camera and IMU data.
 
-<div align=center><img src=doc/image/simulation.png width="250"></div>
+#### 3.2 You can run different initialization method on the dataset via configuration parameter. The methods for comparision include:
+* Open-VINS initialization (preparing)
+* VINS-Mono initialization (preparing)
+* An improved work of ORB-SLAM3 initializaiton (preparing)
+* Our method in a tightly coupled manner (Released)
+* Our method in a loosely coupled manner (Released)
 
-Notice: if you want to generate your own data, you can refer to the code below.
+#### 3.3 You can run the code with:
+
 ```
-https://github.com/HeYijia/vio_data_simulation
+./executableFile codeType dataType
 ```
+where codeType means the initialization method. You can set to be drtTightly or drtLoosely. And dataType means the name of save file, that is consistent with the running dataset.
 
 
-## 4.Performance on EuRoC dataset
-
-
-#### 4.1 Download [EuRoC MAV Dataset](http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets). Although it contains stereo cameras, we only use one camera and IMU data.
-
-#### 4.1 You can run different initialization method on the dataset via configuration parameter. The methods for comparision include:
-* Open-VINS initialization 
-* VINS-Mono initialization
-* An improved work of ORB-SLAM3 initializaiton
-* Our method in a tightly coupled manner
-* Our method in a loosely coupled manner
-
-## 5 Related Papers
+## 4 Related Papers
 
 - **A Rotation-Translation-Decoupled Solution for Robust and Efficient Visual-Inertial Initialization**, Yijia He, Bo Xu, Zhanpeng Ouyang and Hongdong Li.
 
@@ -71,10 +65,10 @@ https://github.com/HeYijia/vio_data_simulation
 
 *If you use drt-vio-initialization for your academic research, please cite our related papers.*
 
-<!-- ## 6. Acknowledgements -->
+<!-- ## 5. Acknowledgements -->
 
 
-## 6. Licence
+## 5. Licence
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
 
